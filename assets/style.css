@@ -103,6 +103,9 @@ header {
     display: inline-block;
     font-weight: 500;
 }
+.menu ul li a:hover{
+    color: #e24727;
+}
 .menu .contact ul li {
     color: #dbdbdb;
     font-size: 14px;
