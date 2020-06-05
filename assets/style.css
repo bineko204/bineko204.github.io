@@ -24,6 +24,9 @@ img {
     padding: 80px 10px;
     overflow-x: hidden;
 }
+ul{
+    list-style: none;
+}
 /* header======== */
 
 header {
@@ -67,6 +70,7 @@ header {
     z-index: 1030;
     opacity: 0;
     visibility: hidden;
+    cursor: url("https://retrina.com/demo/nill/assets/img/cursor-white.png"), auto;
 }
 .menu.show {
     opacity: 1;
@@ -107,7 +111,7 @@ header {
 .menu ul li a:hover{
     color: #e24727;
 }
-.menu .contact ul li {
+.contact ul li {
     color: #dbdbdb;
     font-size: 14px;
     letter-spacing: 2px;
@@ -191,7 +195,7 @@ header {
     padding: 0.25rem;
 }
 .btns {
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .about .btns a {
     background-color: #e24727;
@@ -371,6 +375,11 @@ header {
     color: #fff;
     font-style: italic;
 }
+.copyright{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+}
 /* ==========nav */
 #pp-nav li span {
     width: 20px;
@@ -398,6 +407,7 @@ header {
 .pp-tooltip.right {
     right: 30px;
 }
+
 /* ================responsive */
 @media only screen and (max-width: 768px) {
     header {

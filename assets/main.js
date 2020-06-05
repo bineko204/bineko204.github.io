@@ -16,7 +16,7 @@ $(document).ready(function () {
         direction: 'vertical',
         verticalCentered: true,
         sectionsColor: [],
-        anchors: ['home', 'about', 'resume', 'project'],
+        anchors: ['home', 'about', 'resume', 'project', 'contact'],
         scrollingSpeed: 700,
         easing: 'linear',
         loopBottom: true,
@@ -26,7 +26,7 @@ $(document).ready(function () {
             textColor: '#000',
             bulletsColor: '#000',
             position: 'right',
-            tooltips: ['Trang chủ', 'Giới thiệu', 'Hồ sơ', 'Dự án'],
+            tooltips: ['Trang chủ', 'Giới thiệu', 'Hồ sơ', 'Dự án', "Liên hệ"],
         },
         normalScrollElements: null,
         normalScrollElementTouchThreshold: 5,
@@ -41,7 +41,7 @@ $(document).ready(function () {
         afterRender: function () {},
     });
 
-    $('.menu-icon, .close-menu, .menu-item').click(function () {
+    $('.menu-icon, .menu').click(function () {
         $('.menu').hasClass('show') ? $('.menu').removeClass('show') : $('.menu').addClass('show');
     });
 });
