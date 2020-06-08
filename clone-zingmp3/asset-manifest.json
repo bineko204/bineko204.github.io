@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/clone-zingmp3/static/css/main.f3b3f66e.chunk.css",
+    "main.js": "/clone-zingmp3/static/js/main.13dc3590.chunk.js",
+    "main.js.map": "/clone-zingmp3/static/js/main.13dc3590.chunk.js.map",
+    "runtime-main.js": "/clone-zingmp3/static/js/runtime-main.be23e9bf.js",
+    "runtime-main.js.map": "/clone-zingmp3/static/js/runtime-main.be23e9bf.js.map",
+    "static/js/2.4aeec17c.chunk.js": "/clone-zingmp3/static/js/2.4aeec17c.chunk.js",
+    "static/js/2.4aeec17c.chunk.js.map": "/clone-zingmp3/static/js/2.4aeec17c.chunk.js.map",
+    "index.html": "/clone-zingmp3/index.html",
+    "precache-manifest.ba37fcb4abb1ff480b1c2a0919e9f49f.js": "/clone-zingmp3/precache-manifest.ba37fcb4abb1ff480b1c2a0919e9f49f.js",
+    "service-worker.js": "/clone-zingmp3/service-worker.js",
+    "static/css/main.f3b3f66e.chunk.css.map": "/clone-zingmp3/static/css/main.f3b3f66e.chunk.css.map",
+    "static/js/2.4aeec17c.chunk.js.LICENSE.txt": "/clone-zingmp3/static/js/2.4aeec17c.chunk.js.LICENSE.txt",
+    "static/media/audio.mp3": "/clone-zingmp3/static/media/audio.d66c22b6.mp3",
+    "static/media/loginBanner.PNG": "/clone-zingmp3/static/media/loginBanner.6ad427eb.PNG",
+    "static/media/mv-vn-2x.jpg": "/clone-zingmp3/static/media/mv-vn-2x.99463def.jpg",
+    "static/media/song-vn-2x.jpg": "/clone-zingmp3/static/media/song-vn-2x.65e43c53.jpg",
+    "static/media/web_song_kpop.png": "/clone-zingmp3/static/media/web_song_kpop.0171f1ad.png",
+    "static/media/web_song_usuk.png": "/clone-zingmp3/static/media/web_song_usuk.74ace1db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be23e9bf.js",
+    "static/js/2.4aeec17c.chunk.js",
+    "static/css/main.f3b3f66e.chunk.css",
+    "static/js/main.13dc3590.chunk.js"
+  ]
+}
