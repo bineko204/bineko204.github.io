@@ -44,4 +44,9 @@ $(document).ready(function () {
     $('.menu-icon, .menu').click(function () {
         $('.menu').hasClass('show') ? $('.menu').removeClass('show') : $('.menu').addClass('show');
     });
+    $('#year').html(getYear());
 });
+
+function getYear() {
+    return (new Date()).getFullYear();
+}
